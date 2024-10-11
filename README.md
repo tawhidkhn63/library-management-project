@@ -79,7 +79,7 @@ dotnet run
 ```
 
 ### 3. Setting Up the Frontend
-Navigate to the library-management-frontend folder:
+Navigate to the library-management-frontend folder in another terminal:
 ```bash
 cd ../library-management-frontend
 ```
