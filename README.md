@@ -1,6 +1,6 @@
 # Library Management Project
 
-This is a full-stack web application for managing a library system. The project consists of a backend API built with .NET Core and a React frontend application, both of which allow users to manage books, authors, and customers.
+This is a full-stack web application for managing a library system. The project consists of a backend API built with .NET Core and a React frontend application, both of which allow Librarians and Customers to view and interact with books.
 
 ## Librarian UI Screen
 
