@@ -2,6 +2,24 @@
 
 This is a full-stack web application for managing a library system. The project consists of a backend API built with .NET Core and a React frontend application, both of which allow users to manage books, authors, and customers.
 
+## Librarian UI Screen
+
+![Screenshot 2024-10-11 at 12 26 08 PM](https://github.com/user-attachments/assets/c9ab522a-4886-4237-937b-3157e09706ce)
+
+![Screenshot 2024-10-11 at 12 26 14 PM](https://github.com/user-attachments/assets/6177181b-d0b4-4862-b36c-b9a74c38a8fa)
+
+## Customer UI Screen
+
+![Screenshot 2024-10-11 at 12 25 39 PM](https://github.com/user-attachments/assets/d5866c25-b514-40fb-8966-844033fc4ccb)
+
+## Signup And Login Screen
+
+![Screenshot 2024-10-11 at 12 22 38 PM](https://github.com/user-attachments/assets/0f182678-4df0-4150-9329-28c66c63fedf)
+
+![Screenshot 2024-10-11 at 12 22 32 PM](https://github.com/user-attachments/assets/7295faa9-857e-498b-b4e4-68fc708a73df)
+
+
+
 ## Features
 
 - **Librarian Role**: Manage books, customers, and checkouts.
