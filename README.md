@@ -117,6 +117,18 @@ The backend API should be running on http://localhost:5260 (or the configured po
 
 The frontend application will run on http://localhost:3001 (or the configured port).
 
+### 5. Signing up with proper email and password
+
+Email:
+Make sure address ends with @ symbol and domain name for example
+
+Ex. librarian1@example.com  
+
+Password: 
+By default, ASP.NET Core Identity requires passwords to be at least six characters long and contain the following: An uppercase character, A lowercase character, A digit, and A non-alphanumeric character
+
+Ex. Password123!
+
 
 
 
